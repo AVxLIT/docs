@@ -1,0 +1,49 @@
+{
+  "projectType": "general",
+  "projectName": "Virani International",
+  "projectDescription": "Virani International LLC is a diversified operating and property business with roots in India and a growing presence across the United States, spanning retail, commercial real estate, fuel, and COAM operations.",
+  "theme": "willow",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Company",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "index",
+              "about",
+              "our-story"
+            ]
+          },
+          {
+            "group": "Portfolio",
+            "pages": [
+              "businesses",
+              "properties"
+            ]
+          },
+          {
+            "group": "Connect",
+            "pages": [
+              "contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Diversified retail operations across Georgia, Texas, and North Carolina",
+    "Gas stations with COAM (coin-operated amusement machines) in the US",
+    "Commercial and retail property ownership in the US and India",
+    "Retail presence in Mumbai and Delhi",
+    "International business history spanning India, UK, Australia, Dubai, and the US",
+    "Long-term, owner-operated business philosophy",
+    "Commercial properties leased to established businesses"
+  ],
+  "publicApiSurface": []
+}
